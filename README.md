@@ -41,7 +41,7 @@ Looking forward to applying these skills to more real-world data challenges!
 ---
 
 ### How to Use
-1. Open the Power BI dashboard file: (./apple_finance.pbix)
+1. Open the Power BI dashboard file: [apple_finance.pbix](./apple_finance.pbix)
 2. Explore the visuals and interact with filters for deeper insights.
 
 ---
