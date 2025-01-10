@@ -36,18 +36,18 @@ Looking forward to applying these skills to more real-world data challenges!
 ---
 
 ### Preview
-[Add screenshots or a GIF of the dashboard here if applicable]
+![Dashboard](./screenshots/first_page.png)
 
 ---
 
 ### How to Use
-1. Open the Power BI dashboard file: `[Add link to the .pbix file here, if applicable]`.
+1. Open the Power BI dashboard file: (./apple_finance.pbix)
 2. Explore the visuals and interact with filters for deeper insights.
 
 ---
 
 ### About the Dataset
-The dataset includes key financial metrics of Apple Inc. from **2009 to 2024**, sourced from [source name].
+The dataset includes key financial metrics of Apple Inc. from **2009 to 2024**, sourced from [[source name](https://www.kaggle.com/datasets/jamiedcollins/hjsjdjdjdjd?resource=download)].
 
 ---
 
@@ -55,6 +55,3 @@ Feel free to contribute to this repository or reach out with suggestions! 🎉
 
 
 
-## Screenshots
-
-![Dashboard](./screenshots/first_page.png)
