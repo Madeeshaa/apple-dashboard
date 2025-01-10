@@ -1,24 +1,58 @@
-# apple-dashboard
+# Power BI Dashboard: Financial Performance of Apple Inc. (2009-2024)
 
- Power BI Dashboard showcasing the financial performance of Apple Inc. (2009-2024)! 
+This interactive dashboard showcases the financial performance of **Apple Inc.** over the years 2009-2024, providing deep insights into key metrics and trends.
 
-This interactive dashboard includes:
+## Dashboard Features
 
-✅ Trend Analysis: Line charts for Revenue, Net Income, and Gross Profit trends.
+✅ **Trend Analysis**  
+Line charts visualizing Revenue, Net Income, and Gross Profit trends.
 
-✅ Profitability Metrics: Bar charts for EBITDA and Operating Income.
+✅ **Profitability Metrics**  
+Bar charts displaying EBITDA and Operating Income.
 
-✅ Liquidity Overview: Stacked bar charts for Cash, Debt, and Liabilities.
+✅ **Liquidity Overview**  
+Stacked bar charts highlighting Cash, Debt, and Liabilities.
 
-✅ Valuation Insights: Scatter plot for PE Ratio vs. Stock Price over time.
+✅ **Valuation Insights**  
+Scatter plot showing PE Ratio vs. Stock Price over time.
 
-✅ Stock Price Trends: Line chart for Apple’s stock price performance.
+✅ **Stock Price Trends**  
+Line chart illustrating Apple’s stock price performance.
 
-✅ Liabilities Breakdown: Pie chart for the composition of Total Liabilities.
+✅ **Liabilities Breakdown**  
+Pie chart presenting the composition of Total Liabilities.
 
-I also designed the custom background for the dashboard using Microsoft PowerPoint to give it a polished and professional look.
+## Custom Design
+I designed the custom background for the dashboard using **Microsoft PowerPoint**, adding a polished and professional touch.
 
-This project was a great opportunity to enhance my data visualization and storytelling skills while diving deep into Apple’s financials. Looking forward to applying these skills to more real-world data challenges!
+## Skills Gained
+This project enhanced my:
+- **Data Visualization**: Building interactive and insightful dashboards.
+- **Storytelling**: Communicating complex financial data effectively.
+- **Financial Analysis**: Exploring Apple’s financial performance in detail.
+
+Looking forward to applying these skills to more real-world data challenges!
+
+---
+
+### Preview
+[Add screenshots or a GIF of the dashboard here if applicable]
+
+---
+
+### How to Use
+1. Open the Power BI dashboard file: `[Add link to the .pbix file here, if applicable]`.
+2. Explore the visuals and interact with filters for deeper insights.
+
+---
+
+### About the Dataset
+The dataset includes key financial metrics of Apple Inc. from **2009 to 2024**, sourced from [source name].
+
+---
+
+Feel free to contribute to this repository or reach out with suggestions! 🎉
+
 
 
 ## Screenshots
